@@ -24,6 +24,14 @@
           "Viewport": "0,0,1,1",
           "ZFar": 10000,
           "ZNear": 10
+        },
+        {
+          "__type": "DepthOfField",
+          "__guid": "00c44786-7928-42d1-8fb5-91386c3533c5",
+          "BackBlur": true,
+          "BlurSize": 77.13,
+          "FocalDistance": 760.98,
+          "FrontBlur": false
         }
       ]
     },
@@ -114,7 +122,7 @@
   },
   "Title": "minimal",
   "Description": "",
-  "LastSaved": "2024-03-16T15:00:32.8740977\u002B01:00",
+  "LastSaved": "2024-03-16T15:04:29.5236292\u002B01:00",
   "ResourceVersion": 1,
   "__version": 1,
   "__references": []
